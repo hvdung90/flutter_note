@@ -1,6 +1,6 @@
 # noteapp
 
-A new Flutter application.
+a new Flutter application.
 
 ## Getting Started
 
